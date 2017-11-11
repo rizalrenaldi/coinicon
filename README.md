@@ -1,8 +1,6 @@
 # coinicon
 #### v1.0 | 64 cryptocurrency icons
 
-___
-
 ![Icons](preview/coinicon.jpg)
 
 coinicon is a simplified version of cryptocurrency logo and icon. All of these icons are my personal reinterpretation of the actual logo without changing any essential part of the visual, and keeping the icon identifiable as it is.
@@ -17,9 +15,9 @@ coinicon is made by Rizal Renaldi a.k.a HelloSignal.
 ___
 
 
-## [Preview](https://www.signalsuply.co/coinicon)
+## [Preview](https://www.signalsupply.co/coinicon)
 
-___
+
 
 ## Usage
 
