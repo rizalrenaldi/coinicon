@@ -1,0 +1,196 @@
+[{
+		"cardano": "ada"
+	},
+	{
+		"aeternity": "ae"
+	},
+	{
+		"ardor": "ardr"
+	},
+	{
+		"ark": "ark"
+	},
+	{
+		"basicattentiontoken": "bat"
+	},
+	{
+		"bitconnect": "bcc"
+	},
+	{
+		"bytecoin": "bcn"
+	},
+	{
+		"blocknet": "block"
+	},
+	{
+		"binance": "bnb"
+	},
+	{
+		"bitcoin": "btc"
+	},
+	{
+		"bitcoindark": "btcd"
+	},
+	{
+		"bytom": "btm"
+	},
+	{
+		"bitshare": "bts"
+	},
+	{
+		"civic": "cvc"
+	},
+	{
+		"dash": "dash"
+	},
+	{
+		"decred": "dcr"
+	},
+	{
+		"digixdao": "dgd"
+	},
+	{
+		"district0x": "dnt"
+	},
+	{
+		"dogecoin": "doge"
+	},
+	{
+		"eos": "eos"
+	},
+	{
+		"ethereum": "eth"
+	},
+	{
+		"metaverse": "etp"
+	},
+	{
+		"factom": "fct"
+	},
+	{
+		"gamecredits": "game"
+	},
+	{
+		"byteball": "gbyte"
+	},
+	{
+		"golem": "gnt"
+	},
+	{
+		"gxshare": "gxs"
+	},
+	{
+		"hshare": "hsr"
+	},
+	{
+		"iconomi": "icn"
+	},
+	{
+		"komodo": "kmd"
+	},
+	{
+		"kyber": "knc"
+	},
+	{
+		"lisk": "lsk"
+	},
+	{
+		"litecoin": "ltc"
+	},
+	{
+		"maidsafecoin": "maid"
+	},
+	{
+		"iota": "miota"
+	},
+	{
+		"monacoin": "mona"
+	},
+	{
+		"metal": "mtl"
+	},
+	{
+		"nav": "nav"
+	},
+	{
+		"neo": "neo"
+	},
+	{
+		"omisego": "omg"
+	},
+	{
+		"tenx": "pay"
+	},
+	{
+		"pivx": "pivx"
+	},
+	{
+		"potcoin": "pot"
+	},
+	{
+		"qtum": "qtum"
+	},
+	{
+		"augur": "rep"
+	},
+	{
+		"salt": "salt"
+	},
+	{
+		"siacoin": "sc"
+	},
+	{
+		"segwit": "segwit"
+	},
+	{
+		"singulardtv": "sngls"
+	},
+	{
+		"status": "snt"
+	},
+	{
+		"steem": "steem"
+	},
+	{
+		"syscoin": "sys"
+	},
+	{
+		"tron": "trx"
+	},
+	{
+		"tether": "usdt"
+	},
+	{
+		"veritaseum": "veri"
+	},
+	{
+		"vertcoin": "vtc"
+	},
+	{
+		"aves": "waves"
+	},
+	{
+		"walton": "wtc"
+	},
+	{
+		"nem": "xem"
+	},
+	{
+		"stellarlumens": "xlm"
+	},
+	{
+		"monero": "xmr"
+	},
+	{
+		"ripple": "xrp"
+	},
+	{
+		"erge": "xvg"
+	},
+	{
+		"zcash": "zec"
+	},
+	{
+		"0x": "zrx"
+	}
+]
