@@ -76,7 +76,7 @@ Pre-configured color is set for each icon. So far, only NAVcoin and Ripple that 
 <i class="ci ci-eth etc-color"></i>
 ```
 
-Special treatment on Ethreum and Ethereum Classic. Since both share same icon, use `.ci-etc` for both icon, and use `.eth-color` for Ethereum's color and `.etc-color` for Ethereum Classic's color.
+Special treatment on Ethereum and Ethereum Classic. Since both share same icon, use `.ci-etc` for both icon, and use `.eth-color` for Ethereum's color and `.etc-color` for Ethereum Classic's color.
 
 ___
 
@@ -92,7 +92,7 @@ Round frame variation using the same color with colored icon. Easily combine it 
 <i class="ci-m ci-xrp xrp-round"></i>  
 ```
 
-Special treatment on Ethreum and Ethreum Classic. Since both share same icon, use .ci-etc for both icon, and use .eth-round for Ethereum's round color and .etc-round for Ethereum Classic's round color.
+Special treatment on Ethereum and Ethereum Classic. Since both share same icon, use .ci-etc for both icon, and use .eth-round for Ethereum's round color and .etc-round for Ethereum Classic's round color.
 
 ___
 
