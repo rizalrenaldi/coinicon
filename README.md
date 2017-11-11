@@ -30,7 +30,7 @@ coinicon is a font-based icon with pre-configured setting via css.
 <link rel="stylesheet" href="coinicon.css">
 ```
 
-See list of all currencies name and codes (v1.0) here.
+See list of all currencies name and codes (v1.0) [here](https://github.com/rizalrenaldi/coinicon/blob/master/currency.json).
 
 ___
 
